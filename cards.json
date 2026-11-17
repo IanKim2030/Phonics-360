@@ -1,0 +1,2522 @@
+[
+  {
+    "id": 1,
+    "pattern": "ai",
+    "word": "rain",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 2,
+    "pattern": "ai",
+    "word": "train",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 3,
+    "pattern": "ai",
+    "word": "tail",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 4,
+    "pattern": "ai",
+    "word": "mail",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 5,
+    "pattern": "ai",
+    "word": "sail",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 6,
+    "pattern": "ai",
+    "word": "paint",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 7,
+    "pattern": "ai",
+    "word": "wait",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 8,
+    "pattern": "ai",
+    "word": "chain",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 9,
+    "pattern": "ai",
+    "word": "brain",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 10,
+    "pattern": "ai",
+    "word": "stain",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 11,
+    "pattern": "ai",
+    "word": "drain",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 12,
+    "pattern": "ai",
+    "word": "plain",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 13,
+    "pattern": "ay",
+    "word": "day",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 14,
+    "pattern": "ay",
+    "word": "play",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 15,
+    "pattern": "ay",
+    "word": "stay",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 16,
+    "pattern": "ay",
+    "word": "say",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 17,
+    "pattern": "ay",
+    "word": "tray",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 18,
+    "pattern": "ay",
+    "word": "spray",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 19,
+    "pattern": "ay",
+    "word": "gray",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 20,
+    "pattern": "ay",
+    "word": "clay",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 21,
+    "pattern": "ay",
+    "word": "delay",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 22,
+    "pattern": "ay",
+    "word": "display",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 23,
+    "pattern": "ay",
+    "word": "highway",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 24,
+    "pattern": "ay",
+    "word": "Sunday",
+    "group": "긴 a",
+    "phoneme": "eI"
+  },
+  {
+    "id": 25,
+    "pattern": "ee",
+    "word": "see",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 26,
+    "pattern": "ee",
+    "word": "tree",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 27,
+    "pattern": "ee",
+    "word": "green",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 28,
+    "pattern": "ee",
+    "word": "feet",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 29,
+    "pattern": "ee",
+    "word": "sheep",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 30,
+    "pattern": "ee",
+    "word": "sleep",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 31,
+    "pattern": "ee",
+    "word": "street",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 32,
+    "pattern": "ee",
+    "word": "sweet",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 33,
+    "pattern": "ee",
+    "word": "meet",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 34,
+    "pattern": "ee",
+    "word": "seed",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 35,
+    "pattern": "ee",
+    "word": "deep",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 36,
+    "pattern": "ee",
+    "word": "three",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 37,
+    "pattern": "ea /ee/",
+    "word": "sea",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 38,
+    "pattern": "ea /ee/",
+    "word": "tea",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 39,
+    "pattern": "ea /ee/",
+    "word": "eat",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 40,
+    "pattern": "ea /ee/",
+    "word": "read",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 41,
+    "pattern": "ea /ee/",
+    "word": "clean",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 42,
+    "pattern": "ea /ee/",
+    "word": "dream",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 43,
+    "pattern": "ea /ee/",
+    "word": "beach",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 44,
+    "pattern": "ea /ee/",
+    "word": "peach",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 45,
+    "pattern": "ea /ee/",
+    "word": "leaf",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 46,
+    "pattern": "ea /ee/",
+    "word": "team",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 47,
+    "pattern": "ea /ee/",
+    "word": "speak",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 48,
+    "pattern": "ea /ee/",
+    "word": "reach",
+    "group": "긴 e",
+    "phoneme": "i:"
+  },
+  {
+    "id": 49,
+    "pattern": "igh",
+    "word": "night",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 50,
+    "pattern": "igh",
+    "word": "light",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 51,
+    "pattern": "igh",
+    "word": "right",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 52,
+    "pattern": "igh",
+    "word": "high",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 53,
+    "pattern": "igh",
+    "word": "sigh",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 54,
+    "pattern": "igh",
+    "word": "fight",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 55,
+    "pattern": "igh",
+    "word": "sight",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 56,
+    "pattern": "igh",
+    "word": "bright",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 57,
+    "pattern": "igh",
+    "word": "flight",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 58,
+    "pattern": "igh",
+    "word": "tight",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 59,
+    "pattern": "igh",
+    "word": "might",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 60,
+    "pattern": "igh",
+    "word": "midnight",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 61,
+    "pattern": "ie /i/",
+    "word": "pie",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 62,
+    "pattern": "ie /i/",
+    "word": "tie",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 63,
+    "pattern": "ie /i/",
+    "word": "lie",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 64,
+    "pattern": "ie /i/",
+    "word": "cried",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 65,
+    "pattern": "ie /i/",
+    "word": "tried",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 66,
+    "pattern": "ie /i/",
+    "word": "fried",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 67,
+    "pattern": "ie /i/",
+    "word": "dried",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 68,
+    "pattern": "ie /i/",
+    "word": "flies",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 69,
+    "pattern": "ie /i/",
+    "word": "skies",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 70,
+    "pattern": "ie /i/",
+    "word": "replied",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 71,
+    "pattern": "ie /i/",
+    "word": "untie",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 72,
+    "pattern": "ie /i/",
+    "word": "magpie",
+    "group": "긴 i",
+    "phoneme": "aI"
+  },
+  {
+    "id": 73,
+    "pattern": "oa",
+    "word": "boat",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 74,
+    "pattern": "oa",
+    "word": "road",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 75,
+    "pattern": "oa",
+    "word": "coat",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 76,
+    "pattern": "oa",
+    "word": "soap",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 77,
+    "pattern": "oa",
+    "word": "goat",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 78,
+    "pattern": "oa",
+    "word": "float",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 79,
+    "pattern": "oa",
+    "word": "toast",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 80,
+    "pattern": "oa",
+    "word": "coach",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 81,
+    "pattern": "oa",
+    "word": "loaf",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 82,
+    "pattern": "oa",
+    "word": "throat",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 83,
+    "pattern": "oa",
+    "word": "groan",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 84,
+    "pattern": "oa",
+    "word": "approach",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 85,
+    "pattern": "ow /o/",
+    "word": "snow",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 86,
+    "pattern": "ow /o/",
+    "word": "grow",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 87,
+    "pattern": "ow /o/",
+    "word": "slow",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 88,
+    "pattern": "ow /o/",
+    "word": "show",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 89,
+    "pattern": "ow /o/",
+    "word": "blow",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 90,
+    "pattern": "ow /o/",
+    "word": "flow",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 91,
+    "pattern": "ow /o/",
+    "word": "yellow",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 92,
+    "pattern": "ow /o/",
+    "word": "window",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 93,
+    "pattern": "ow /o/",
+    "word": "pillow",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 94,
+    "pattern": "ow /o/",
+    "word": "rainbow",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 95,
+    "pattern": "ow /o/",
+    "word": "below",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 96,
+    "pattern": "ow /o/",
+    "word": "throw",
+    "group": "긴 o",
+    "phoneme": "oU"
+  },
+  {
+    "id": 97,
+    "pattern": "ai vs ay",
+    "word": "rain",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 98,
+    "pattern": "ai vs ay",
+    "word": "play",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 99,
+    "pattern": "ai vs ay",
+    "word": "train",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 100,
+    "pattern": "ai vs ay",
+    "word": "stay",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 101,
+    "pattern": "ai vs ay",
+    "word": "tail",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 102,
+    "pattern": "ai vs ay",
+    "word": "day",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 103,
+    "pattern": "ai vs ay",
+    "word": "paint",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 104,
+    "pattern": "ai vs ay",
+    "word": "tray",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 105,
+    "pattern": "ai vs ay",
+    "word": "chain",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 106,
+    "pattern": "ai vs ay",
+    "word": "spray",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 107,
+    "pattern": "ai vs ay",
+    "word": "wait",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 108,
+    "pattern": "ai vs ay",
+    "word": "clay",
+    "group": "위치 비교",
+    "phoneme": "eI"
+  },
+  {
+    "id": 109,
+    "pattern": "ee vs ea",
+    "word": "see",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 110,
+    "pattern": "ee vs ea",
+    "word": "sea",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 111,
+    "pattern": "ee vs ea",
+    "word": "feet",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 112,
+    "pattern": "ee vs ea",
+    "word": "eat",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 113,
+    "pattern": "ee vs ea",
+    "word": "tree",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 114,
+    "pattern": "ee vs ea",
+    "word": "tea",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 115,
+    "pattern": "ee vs ea",
+    "word": "green",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 116,
+    "pattern": "ee vs ea",
+    "word": "clean",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 117,
+    "pattern": "ee vs ea",
+    "word": "sleep",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 118,
+    "pattern": "ee vs ea",
+    "word": "dream",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 119,
+    "pattern": "ee vs ea",
+    "word": "meet",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 120,
+    "pattern": "ee vs ea",
+    "word": "beach",
+    "group": "같은 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 121,
+    "pattern": "oi",
+    "word": "coin",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 122,
+    "pattern": "oi",
+    "word": "soil",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 123,
+    "pattern": "oi",
+    "word": "boil",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 124,
+    "pattern": "oi",
+    "word": "point",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 125,
+    "pattern": "oi",
+    "word": "join",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 126,
+    "pattern": "oi",
+    "word": "voice",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 127,
+    "pattern": "oi",
+    "word": "choice",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 128,
+    "pattern": "oi",
+    "word": "noise",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 129,
+    "pattern": "oi",
+    "word": "oil",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 130,
+    "pattern": "oi",
+    "word": "spoil",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 131,
+    "pattern": "oi",
+    "word": "avoid",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 132,
+    "pattern": "oi",
+    "word": "poison",
+    "group": "oi 소리",
+    "phoneme": "OI"
+  },
+  {
+    "id": 133,
+    "pattern": "oy",
+    "word": "boy",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 134,
+    "pattern": "oy",
+    "word": "toy",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 135,
+    "pattern": "oy",
+    "word": "joy",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 136,
+    "pattern": "oy",
+    "word": "enjoy",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 137,
+    "pattern": "oy",
+    "word": "royal",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 138,
+    "pattern": "oy",
+    "word": "annoy",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 139,
+    "pattern": "oy",
+    "word": "oyster",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 140,
+    "pattern": "oy",
+    "word": "cowboy",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 141,
+    "pattern": "oy",
+    "word": "destroy",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 142,
+    "pattern": "oy",
+    "word": "loyal",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 143,
+    "pattern": "oy",
+    "word": "employ",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 144,
+    "pattern": "oy",
+    "word": "joyful",
+    "group": "oy 소리",
+    "phoneme": "i:"
+  },
+  {
+    "id": 145,
+    "pattern": "ou /ow/",
+    "word": "out",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 146,
+    "pattern": "ou /ow/",
+    "word": "loud",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 147,
+    "pattern": "ou /ow/",
+    "word": "cloud",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 148,
+    "pattern": "ou /ow/",
+    "word": "house",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 149,
+    "pattern": "ou /ow/",
+    "word": "mouse",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 150,
+    "pattern": "ou /ow/",
+    "word": "shout",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 151,
+    "pattern": "ou /ow/",
+    "word": "round",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 152,
+    "pattern": "ou /ow/",
+    "word": "sound",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 153,
+    "pattern": "ou /ow/",
+    "word": "ground",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 154,
+    "pattern": "ou /ow/",
+    "word": "mouth",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 155,
+    "pattern": "ou /ow/",
+    "word": "south",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 156,
+    "pattern": "ou /ow/",
+    "word": "count",
+    "group": "ou 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 157,
+    "pattern": "ow /ow/",
+    "word": "cow",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 158,
+    "pattern": "ow /ow/",
+    "word": "now",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 159,
+    "pattern": "ow /ow/",
+    "word": "how",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 160,
+    "pattern": "ow /ow/",
+    "word": "brown",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 161,
+    "pattern": "ow /ow/",
+    "word": "town",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 162,
+    "pattern": "ow /ow/",
+    "word": "down",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 163,
+    "pattern": "ow /ow/",
+    "word": "crown",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 164,
+    "pattern": "ow /ow/",
+    "word": "flower",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 165,
+    "pattern": "ow /ow/",
+    "word": "shower",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 166,
+    "pattern": "ow /ow/",
+    "word": "owl",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 167,
+    "pattern": "ow /ow/",
+    "word": "crowd",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 168,
+    "pattern": "ow /ow/",
+    "word": "powder",
+    "group": "ow 소리",
+    "phoneme": "aU"
+  },
+  {
+    "id": 169,
+    "pattern": "oo /long/",
+    "word": "moon",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 170,
+    "pattern": "oo /long/",
+    "word": "spoon",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 171,
+    "pattern": "oo /long/",
+    "word": "food",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 172,
+    "pattern": "oo /long/",
+    "word": "school",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 173,
+    "pattern": "oo /long/",
+    "word": "room",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 174,
+    "pattern": "oo /long/",
+    "word": "cool",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 175,
+    "pattern": "oo /long/",
+    "word": "pool",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 176,
+    "pattern": "oo /long/",
+    "word": "tooth",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 177,
+    "pattern": "oo /long/",
+    "word": "soon",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 178,
+    "pattern": "oo /long/",
+    "word": "boot",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 179,
+    "pattern": "oo /long/",
+    "word": "noon",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 180,
+    "pattern": "oo /long/",
+    "word": "balloon",
+    "group": "긴 oo",
+    "phoneme": "u:"
+  },
+  {
+    "id": 181,
+    "pattern": "oo /short/",
+    "word": "book",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 182,
+    "pattern": "oo /short/",
+    "word": "look",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 183,
+    "pattern": "oo /short/",
+    "word": "cook",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 184,
+    "pattern": "oo /short/",
+    "word": "foot",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 185,
+    "pattern": "oo /short/",
+    "word": "good",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 186,
+    "pattern": "oo /short/",
+    "word": "wood",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 187,
+    "pattern": "oo /short/",
+    "word": "stood",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 188,
+    "pattern": "oo /short/",
+    "word": "wool",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 189,
+    "pattern": "oo /short/",
+    "word": "hook",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 190,
+    "pattern": "oo /short/",
+    "word": "brook",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 191,
+    "pattern": "oo /short/",
+    "word": "shook",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 192,
+    "pattern": "oo /short/",
+    "word": "cookie",
+    "group": "짧은 oo",
+    "phoneme": "U"
+  },
+  {
+    "id": 193,
+    "pattern": "ue",
+    "word": "blue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 194,
+    "pattern": "ue",
+    "word": "clue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 195,
+    "pattern": "ue",
+    "word": "true",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 196,
+    "pattern": "ue",
+    "word": "glue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 197,
+    "pattern": "ue",
+    "word": "due",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 198,
+    "pattern": "ue",
+    "word": "cue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 199,
+    "pattern": "ue",
+    "word": "rescue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 200,
+    "pattern": "ue",
+    "word": "argue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 201,
+    "pattern": "ue",
+    "word": "value",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 202,
+    "pattern": "ue",
+    "word": "continue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 203,
+    "pattern": "ue",
+    "word": "tissue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 204,
+    "pattern": "ue",
+    "word": "avenue",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 205,
+    "pattern": "ew",
+    "word": "new",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 206,
+    "pattern": "ew",
+    "word": "few",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 207,
+    "pattern": "ew",
+    "word": "grew",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 208,
+    "pattern": "ew",
+    "word": "flew",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 209,
+    "pattern": "ew",
+    "word": "drew",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 210,
+    "pattern": "ew",
+    "word": "chew",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 211,
+    "pattern": "ew",
+    "word": "threw",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 212,
+    "pattern": "ew",
+    "word": "blew",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 213,
+    "pattern": "ew",
+    "word": "crew",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 214,
+    "pattern": "ew",
+    "word": "stew",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 215,
+    "pattern": "ew",
+    "word": "screw",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 216,
+    "pattern": "ew",
+    "word": "renew",
+    "group": "긴 u",
+    "phoneme": "u:"
+  },
+  {
+    "id": 217,
+    "pattern": "ar",
+    "word": "car",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 218,
+    "pattern": "ar",
+    "word": "star",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 219,
+    "pattern": "ar",
+    "word": "park",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 220,
+    "pattern": "ar",
+    "word": "dark",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 221,
+    "pattern": "ar",
+    "word": "farm",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 222,
+    "pattern": "ar",
+    "word": "hard",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 223,
+    "pattern": "ar",
+    "word": "sharp",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 224,
+    "pattern": "ar",
+    "word": "start",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 225,
+    "pattern": "ar",
+    "word": "garden",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 226,
+    "pattern": "ar",
+    "word": "market",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 227,
+    "pattern": "ar",
+    "word": "artist",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 228,
+    "pattern": "ar",
+    "word": "carpet",
+    "group": "r 영향 모음",
+    "phoneme": "A:"
+  },
+  {
+    "id": 229,
+    "pattern": "or",
+    "word": "for",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 230,
+    "pattern": "or",
+    "word": "fork",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 231,
+    "pattern": "or",
+    "word": "corn",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 232,
+    "pattern": "or",
+    "word": "storm",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 233,
+    "pattern": "or",
+    "word": "short",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 234,
+    "pattern": "or",
+    "word": "horse",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 235,
+    "pattern": "or",
+    "word": "north",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 236,
+    "pattern": "or",
+    "word": "sport",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 237,
+    "pattern": "or",
+    "word": "morning",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 238,
+    "pattern": "or",
+    "word": "story",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 239,
+    "pattern": "or",
+    "word": "porch",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 240,
+    "pattern": "or",
+    "word": "forget",
+    "group": "r 영향 모음",
+    "phoneme": "O:"
+  },
+  {
+    "id": 241,
+    "pattern": "er",
+    "word": "her",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 242,
+    "pattern": "er",
+    "word": "fern",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 243,
+    "pattern": "er",
+    "word": "term",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 244,
+    "pattern": "er",
+    "word": "verb",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 245,
+    "pattern": "er",
+    "word": "herd",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 246,
+    "pattern": "er",
+    "word": "person",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 247,
+    "pattern": "er",
+    "word": "winter",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 248,
+    "pattern": "er",
+    "word": "sister",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 249,
+    "pattern": "er",
+    "word": "teacher",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 250,
+    "pattern": "er",
+    "word": "river",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 251,
+    "pattern": "er",
+    "word": "paper",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 252,
+    "pattern": "er",
+    "word": "never",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 253,
+    "pattern": "ir",
+    "word": "bird",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 254,
+    "pattern": "ir",
+    "word": "girl",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 255,
+    "pattern": "ir",
+    "word": "first",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 256,
+    "pattern": "ir",
+    "word": "shirt",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 257,
+    "pattern": "ir",
+    "word": "dirt",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 258,
+    "pattern": "ir",
+    "word": "third",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 259,
+    "pattern": "ir",
+    "word": "circle",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 260,
+    "pattern": "ir",
+    "word": "birthday",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 261,
+    "pattern": "ir",
+    "word": "stir",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 262,
+    "pattern": "ir",
+    "word": "skirt",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 263,
+    "pattern": "ir",
+    "word": "firm",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 264,
+    "pattern": "ir",
+    "word": "thirsty",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 265,
+    "pattern": "ur",
+    "word": "turn",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 266,
+    "pattern": "ur",
+    "word": "burn",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 267,
+    "pattern": "ur",
+    "word": "hurt",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 268,
+    "pattern": "ur",
+    "word": "nurse",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 269,
+    "pattern": "ur",
+    "word": "purple",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 270,
+    "pattern": "ur",
+    "word": "turtle",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 271,
+    "pattern": "ur",
+    "word": "church",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 272,
+    "pattern": "ur",
+    "word": "Thursday",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 273,
+    "pattern": "ur",
+    "word": "curl",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 274,
+    "pattern": "ur",
+    "word": "fur",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 275,
+    "pattern": "ur",
+    "word": "burst",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 276,
+    "pattern": "ur",
+    "word": "return",
+    "group": "r 영향 모음",
+    "phoneme": "3:"
+  },
+  {
+    "id": 277,
+    "pattern": "air",
+    "word": "air",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 278,
+    "pattern": "air",
+    "word": "fair",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 279,
+    "pattern": "air",
+    "word": "hair",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 280,
+    "pattern": "air",
+    "word": "chair",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 281,
+    "pattern": "air",
+    "word": "pair",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 282,
+    "pattern": "air",
+    "word": "stair",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 283,
+    "pattern": "air",
+    "word": "repair",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 284,
+    "pattern": "air",
+    "word": "unfair",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 285,
+    "pattern": "air",
+    "word": "airport",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 286,
+    "pattern": "air",
+    "word": "dairy",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 287,
+    "pattern": "air",
+    "word": "fairy",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 288,
+    "pattern": "air",
+    "word": "compare",
+    "group": "air 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 289,
+    "pattern": "ear",
+    "word": "hear",
+    "group": "ear 여러 소리",
+    "phoneme": "I@"
+  },
+  {
+    "id": 290,
+    "pattern": "ear",
+    "word": "near",
+    "group": "ear 여러 소리",
+    "phoneme": "I@"
+  },
+  {
+    "id": 291,
+    "pattern": "ear",
+    "word": "dear",
+    "group": "ear 여러 소리",
+    "phoneme": "I@"
+  },
+  {
+    "id": 292,
+    "pattern": "ear",
+    "word": "fear",
+    "group": "ear 여러 소리",
+    "phoneme": "I@"
+  },
+  {
+    "id": 293,
+    "pattern": "ear",
+    "word": "year",
+    "group": "ear 여러 소리",
+    "phoneme": "I@"
+  },
+  {
+    "id": 294,
+    "pattern": "ear",
+    "word": "clear",
+    "group": "ear 여러 소리",
+    "phoneme": "I@"
+  },
+  {
+    "id": 295,
+    "pattern": "ear",
+    "word": "beard",
+    "group": "ear 여러 소리",
+    "phoneme": "I@"
+  },
+  {
+    "id": 296,
+    "pattern": "ear",
+    "word": "ear",
+    "group": "ear 여러 소리",
+    "phoneme": "I@"
+  },
+  {
+    "id": 297,
+    "pattern": "ear",
+    "word": "bear",
+    "group": "ear 여러 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 298,
+    "pattern": "ear",
+    "word": "wear",
+    "group": "ear 여러 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 299,
+    "pattern": "ear",
+    "word": "pear",
+    "group": "ear 여러 소리",
+    "phoneme": "e@"
+  },
+  {
+    "id": 300,
+    "pattern": "ear",
+    "word": "learn",
+    "group": "ear 여러 소리",
+    "phoneme": "3:"
+  },
+  {
+    "id": 301,
+    "pattern": "eigh / ei",
+    "word": "eight",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 302,
+    "pattern": "eigh / ei",
+    "word": "weight",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 303,
+    "pattern": "eigh / ei",
+    "word": "weigh",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 304,
+    "pattern": "eigh / ei",
+    "word": "neighbor",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 305,
+    "pattern": "eigh / ei",
+    "word": "sleigh",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 306,
+    "pattern": "eigh / ei",
+    "word": "freight",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 307,
+    "pattern": "eigh / ei",
+    "word": "eighty",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 308,
+    "pattern": "eigh / ei",
+    "word": "eighteen",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 309,
+    "pattern": "eigh / ei",
+    "word": "receive",
+    "group": "긴 a 등",
+    "phoneme": "i:"
+  },
+  {
+    "id": 310,
+    "pattern": "eigh / ei",
+    "word": "ceiling",
+    "group": "긴 a 등",
+    "phoneme": "i:"
+  },
+  {
+    "id": 311,
+    "pattern": "eigh / ei",
+    "word": "either",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 312,
+    "pattern": "eigh / ei",
+    "word": "vein",
+    "group": "긴 a 등",
+    "phoneme": "eI"
+  },
+  {
+    "id": 313,
+    "pattern": "ea  소리 비교",
+    "word": "eat",
+    "group": "",
+    "phoneme": "i:"
+  },
+  {
+    "id": 314,
+    "pattern": "ea  소리 비교",
+    "word": "sea",
+    "group": "",
+    "phoneme": "i:"
+  },
+  {
+    "id": 315,
+    "pattern": "ea  소리 비교",
+    "word": "head",
+    "group": "",
+    "phoneme": "E"
+  },
+  {
+    "id": 316,
+    "pattern": "ea  소리 비교",
+    "word": "bread",
+    "group": "",
+    "phoneme": "E"
+  },
+  {
+    "id": 317,
+    "pattern": "ea  소리 비교",
+    "word": "ready",
+    "group": "",
+    "phoneme": "E"
+  },
+  {
+    "id": 318,
+    "pattern": "ea  소리 비교",
+    "word": "heavy",
+    "group": "",
+    "phoneme": "E"
+  },
+  {
+    "id": 319,
+    "pattern": "ea  소리 비교",
+    "word": "great",
+    "group": "",
+    "phoneme": "eI"
+  },
+  {
+    "id": 320,
+    "pattern": "ea  소리 비교",
+    "word": "break",
+    "group": "",
+    "phoneme": "eI"
+  },
+  {
+    "id": 321,
+    "pattern": "ea  소리 비교",
+    "word": "steak",
+    "group": "",
+    "phoneme": "eI"
+  },
+  {
+    "id": 322,
+    "pattern": "ea  소리 비교",
+    "word": "spread",
+    "group": "",
+    "phoneme": "E"
+  },
+  {
+    "id": 323,
+    "pattern": "ea  소리 비교",
+    "word": "clean",
+    "group": "",
+    "phoneme": "i:"
+  },
+  {
+    "id": 324,
+    "pattern": "ea  소리 비교",
+    "word": "deaf",
+    "group": "",
+    "phoneme": "i:"
+  },
+  {
+    "id": 325,
+    "pattern": "ow  소리 비교",
+    "word": "snow",
+    "group": "",
+    "phoneme": "oU"
+  },
+  {
+    "id": 326,
+    "pattern": "ow  소리 비교",
+    "word": "grow",
+    "group": "",
+    "phoneme": "oU"
+  },
+  {
+    "id": 327,
+    "pattern": "ow  소리 비교",
+    "word": "show",
+    "group": "",
+    "phoneme": "oU"
+  },
+  {
+    "id": 328,
+    "pattern": "ow  소리 비교",
+    "word": "slow",
+    "group": "",
+    "phoneme": "oU"
+  },
+  {
+    "id": 329,
+    "pattern": "ow  소리 비교",
+    "word": "window",
+    "group": "",
+    "phoneme": "oU"
+  },
+  {
+    "id": 330,
+    "pattern": "ow  소리 비교",
+    "word": "yellow",
+    "group": "",
+    "phoneme": "oU"
+  },
+  {
+    "id": 331,
+    "pattern": "ow  소리 비교",
+    "word": "cow",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 332,
+    "pattern": "ow  소리 비교",
+    "word": "now",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 333,
+    "pattern": "ow  소리 비교",
+    "word": "brown",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 334,
+    "pattern": "ow  소리 비교",
+    "word": "town",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 335,
+    "pattern": "ow  소리 비교",
+    "word": "down",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 336,
+    "pattern": "ow  소리 비교",
+    "word": "flower",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 337,
+    "pattern": "ou  소리 비교",
+    "word": "out",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 338,
+    "pattern": "ou  소리 비교",
+    "word": "house",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 339,
+    "pattern": "ou  소리 비교",
+    "word": "cloud",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 340,
+    "pattern": "ou  소리 비교",
+    "word": "sound",
+    "group": "",
+    "phoneme": "aU"
+  },
+  {
+    "id": 341,
+    "pattern": "ou  소리 비교",
+    "word": "soup",
+    "group": "",
+    "phoneme": "u:"
+  },
+  {
+    "id": 342,
+    "pattern": "ou  소리 비교",
+    "word": "group",
+    "group": "",
+    "phoneme": "u:"
+  },
+  {
+    "id": 343,
+    "pattern": "ou  소리 비교",
+    "word": "young",
+    "group": "",
+    "phoneme": "V"
+  },
+  {
+    "id": 344,
+    "pattern": "ou  소리 비교",
+    "word": "touch",
+    "group": "",
+    "phoneme": "V"
+  },
+  {
+    "id": 345,
+    "pattern": "ou  소리 비교",
+    "word": "cousin",
+    "group": "",
+    "phoneme": "V"
+  },
+  {
+    "id": 346,
+    "pattern": "ou  소리 비교",
+    "word": "country",
+    "group": "",
+    "phoneme": "V"
+  },
+  {
+    "id": 347,
+    "pattern": "ou  소리 비교",
+    "word": "double",
+    "group": "",
+    "phoneme": "V"
+  },
+  {
+    "id": 348,
+    "pattern": "ou  소리 비교",
+    "word": "trouble",
+    "group": "",
+    "phoneme": "V"
+  },
+  {
+    "id": 349,
+    "pattern": "tch / dge",
+    "word": "catch",
+    "group": "자음 3글자",
+    "phoneme": "tS"
+  },
+  {
+    "id": 350,
+    "pattern": "tch / dge",
+    "word": "match",
+    "group": "자음 3글자",
+    "phoneme": "tS"
+  },
+  {
+    "id": 351,
+    "pattern": "tch / dge",
+    "word": "watch",
+    "group": "자음 3글자",
+    "phoneme": "tS"
+  },
+  {
+    "id": 352,
+    "pattern": "tch / dge",
+    "word": "patch",
+    "group": "자음 3글자",
+    "phoneme": "tS"
+  },
+  {
+    "id": 353,
+    "pattern": "tch / dge",
+    "word": "kitchen",
+    "group": "자음 3글자",
+    "phoneme": "tS"
+  },
+  {
+    "id": 354,
+    "pattern": "tch / dge",
+    "word": "scratch",
+    "group": "자음 3글자",
+    "phoneme": "tS"
+  },
+  {
+    "id": 355,
+    "pattern": "tch / dge",
+    "word": "fetch",
+    "group": "자음 3글자",
+    "phoneme": "tS"
+  },
+  {
+    "id": 356,
+    "pattern": "tch / dge",
+    "word": "switch",
+    "group": "자음 3글자",
+    "phoneme": "tS"
+  },
+  {
+    "id": 357,
+    "pattern": "tch / dge",
+    "word": "bridge",
+    "group": "자음 3글자",
+    "phoneme": "dZ"
+  },
+  {
+    "id": 358,
+    "pattern": "tch / dge",
+    "word": "badge",
+    "group": "자음 3글자",
+    "phoneme": "dZ"
+  },
+  {
+    "id": 359,
+    "pattern": "tch / dge",
+    "word": "edge",
+    "group": "자음 3글자",
+    "phoneme": "dZ"
+  },
+  {
+    "id": 360,
+    "pattern": "tch / dge",
+    "word": "judge",
+    "group": "자음 3글자",
+    "phoneme": "dZ"
+  }
+]
